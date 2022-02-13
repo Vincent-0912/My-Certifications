@@ -1,6 +1,7 @@
 # My Certification
 
 ## Listing of Recent Certifications
+  - Coursera Certificate - Structuring Machine Learning Projects - [Coursera Cerficiate](https://coursera.org/share/2f38a67836df9b0d7c132044ea7aa595)
   - Coursera Certificate - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - [Coursera Certificate](https://coursera.org/share/1c36f790efc08f600d31d4c06e4fe5e4)
   - Coursera Certificate - Neural networks and Deep Learning - [Coursera Certificate](https://coursera.org/share/a93ef229512c0425619a2c5231dca072)
   - PCAP – Certified Associate in Python Programming - [PCAP-31-03](https://www.credly.com/badges/25a8d706-17b1-4ecc-8e3c-033bcd40e469?source=linked_in_profile)
